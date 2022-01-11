@@ -37,7 +37,7 @@
     "hapi-cors": "^1.0.3",
     "hapi-pino": "^8.0.1",
     "hat": "0.0.3",
-    "mongoose": "^5.9.25"
+    "mongoose": "^6.1.6"
   },
   "devDependencies": {
     "@babel/core": "^7.10.5",
